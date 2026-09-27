@@ -1,0 +1,50 @@
+{
+ "PCA randomized SVD": {
+  "fit_seconds": 0.9,
+  "pairs": 45,
+  "cosine_mean": 0.9994035442670186,
+  "cosine_min": 0.9984211921691895,
+  "ari_mean": 0.984265758346911,
+  "ari_min": 0.9650591942960227
+ },
+ "PCA exact SVD": {
+  "fit_seconds": 2.7,
+  "pairs": 45,
+  "cosine_mean": 1.0,
+  "cosine_min": 1.0,
+  "ari_mean": 1.0,
+  "ari_min": 1.0
+ },
+ "NMF random init": {
+  "fit_seconds": 3.6,
+  "pairs": 45,
+  "cosine_mean": 0.9608343813154433,
+  "cosine_min": 0.9212629199028015,
+  "ari_mean": 0.7576555742830818,
+  "ari_min": 0.6261894553884039
+ },
+ "NMF NNDSVDa init": {
+  "fit_seconds": 4.1,
+  "pairs": 45,
+  "cosine_mean": 0.9669779009289212,
+  "cosine_min": 0.9264153242111206,
+  "ari_mean": 0.3202297542704894,
+  "ari_min": 0.09454472588228321
+ },
+ "DictLearning random init": {
+  "fit_seconds": 100.0,
+  "pairs": 45,
+  "cosine_mean": 0.8344488183657328,
+  "cosine_min": 0.7689091563224792,
+  "ari_mean": 0.6288484090517978,
+  "ari_min": 0.5018574793147164
+ },
+ "DictLearning SVD init": {
+  "fit_seconds": 100.3,
+  "pairs": 45,
+  "cosine_mean": 1.000000238418579,
+  "cosine_min": 1.000000238418579,
+  "ari_mean": 1.0,
+  "ari_min": 1.0
+ }
+}

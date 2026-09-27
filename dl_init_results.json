@@ -1,0 +1,18 @@
+{
+ "DictLearning random init": {
+  "fit_seconds": 100.0,
+  "pairs": 45,
+  "cosine_mean": 0.8344488183657328,
+  "cosine_min": 0.7689091563224792,
+  "ari_mean": 0.6288484090517978,
+  "ari_min": 0.5018574793147164
+ },
+ "DictLearning SVD init": {
+  "fit_seconds": 100.3,
+  "pairs": 45,
+  "cosine_mean": 1.000000238418579,
+  "cosine_min": 1.000000238418579,
+  "ari_mean": 1.0,
+  "ari_min": 1.0
+ }
+}
